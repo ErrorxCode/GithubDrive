@@ -1,4 +1,4 @@
-# XCodeapps
+# MyApps
 This is a marketplace for android apps. Here, you will find all apps & programe made by me.
 
 ## 1. Miscall bomber
