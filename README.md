@@ -57,7 +57,7 @@ With this app, you can share files upto 20GB easily. Or you can use this as clou
 ## 6. Follow It Up
 Promote your instagram profile and increase followers for free by using this app. This app will help you to increase genuine followers which will have the same interest as you. 
 
-***Version : 1.0***
+***Version : 1.5***
 
 ***Open source : No***
 
