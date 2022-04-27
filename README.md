@@ -54,7 +54,7 @@ With this app, you can share files upto 20GB easily. Or you can use this as clou
 [Download from here](https://www.xcoder.tk/apps/share-io)
 
 
-## 6. Follow It Up
+## 6. Follow It Up [Depricated/Not mentained]
 Promote your instagram profile and increase followers for free by using this app. This app will help you to increase genuine followers which will have the same interest as you. 
 
 ***Version : 1.5***
@@ -63,5 +63,14 @@ Promote your instagram profile and increase followers for free by using this app
 
 [Download from here](https://www.xcoder.tk/apps/follow-it-up)
 
+
+## 6. Follow hub
+This app is like crypto currency. Like crypto has a value at a given time and you are rewarded money with the current sell value, likewise here you are rewarded with the Instagram followers with the current value of the app. Its like the share market for Instagram followers.
+
+***Version : 1.0***
+
+***Open source : No***
+
+[Download from here](https://www.xcoder.tk/apps/followhub)
 
 
