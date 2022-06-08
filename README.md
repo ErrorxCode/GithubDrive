@@ -8,7 +8,7 @@ This is an app to prank your buddies. You can irritate them by calling frequentl
 
 ***Open source : No***
 
-[Download from here](https://www.xcoder.tk/apps/call-flooder)
+[Download from here](https://www.rahilxcoder.tk/apps/call-flooder)
 
 
 ## 2. Codex Patcher
@@ -18,7 +18,7 @@ This app allow you to change game graphics settings & visual objects in the game
 
 ***Open source : No***
 
-[Download from here](https://www.xcoder.tk/apps/codex-patcher)
+[Download from here](https://www.rahilxcoder.tk/apps/codex-patcher)
 
 
 
@@ -29,7 +29,7 @@ With this app, you can perform audiometry test from your mobile phone.  This app
 
 ***Open source : No***
 
-[Download from here](https://www.xcoder.tk/apps/sonify)
+[Download from here](https://www.rahilxcoder.tk/apps/sonify)
 
 
 
@@ -40,7 +40,7 @@ This app simulates a phishing attack.  You can test this attack on your friends 
 
 ***Open source : No***
 
-[Download from here](https://www.xcoder.tk/apps/phishing-pro)
+[Download from here](https://www.rahilxcoder.tk/apps/phishing-pro)
 
 
 
@@ -51,7 +51,7 @@ With this app, you can share files upto 20GB easily. Or you can use this as clou
 
 ***Open source : No***
 
-[Download from here](https://www.xcoder.tk/apps/share-io)
+[Download from here](https://www.rahilxcoder.tk/apps/share-io)
 
 
 ## 6. Follow It Up [Depricated/Not mentained]
@@ -61,16 +61,16 @@ Promote your instagram profile and increase followers for free by using this app
 
 ***Open source : No***
 
-[Download from here](https://www.xcoder.tk/apps/follow-it-up)
+[Download from here](https://www.rahilxcoder.tk/apps/follow-it-up)
 
 
 ## 6. Follow hub
 This app is like crypto currency. Like crypto has a value at a given time and you are rewarded money with the current sell value, likewise here you are rewarded with the Instagram followers with the current value of the app. Its like the share market for Instagram followers.
 
-***Version : 1.0***
+***Version : 1.2***
 
 ***Open source : No***
 
-[Download from here](https://www.xcoder.tk/apps/followhub)
+[Download from here](https://www.rahilxcoder.tk/apps/followhub)
 
 
